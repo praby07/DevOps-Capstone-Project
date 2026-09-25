@@ -8,7 +8,7 @@ A DevOps project demonstrating automated continuous integration, continuous deli
 
 * **CI/CD Automation:** Jenkins
 
-* **Containerization:** Docker & Docker Compose
+* **Containerization:** Docker & Docker Hub
 
 * **Monitoring & Metrics:** Prometheus & cAdvisor
 
