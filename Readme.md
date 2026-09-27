@@ -109,4 +109,4 @@ The automated deployment pipeline follows an event-driven flow from commit to de
 
 5. **Continuous Deployment:** The pipeline stops the previously running application container, clears obsolete build artifacts, and runs the newly built container.
 
-6. **Telemetry & Verification:** The deployed container is picked up by cAdvisor and Prometheus, making real-time CPU, memory, and runtime metrics visible on Grafana.
+6. **Telemetry & Verification:** The deployed container is picked up by cAdvisor and Prometheus, making real-time CPU, memory, and runtime metrics visible on Grafana..
